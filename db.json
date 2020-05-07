@@ -1,20 +1,8 @@
 {
     "stanfeld": {
         "bifrost": {
-            "ExitStatus": "Normal",
-            "ExitStatusName": "",
-            "QoS": "",
-            "QoSName": "",
-            "SessionType": "",
-            "SessionTypeName": "",
-            "SessionMessageType": "",
-            "SessionMessageTypeName": "",
-            "BatteryStatus": "",
-            "BatteryStatusName": "",
-            "NetworkTechnologies": "",
-            "NetworkTechnologiesName": "",
-            "NetTechnologyStatus": "",
-            "NetTechnologyStatusName": ""
+            "BatteryStatusName": "Charging",
+            "NetworkTechnologiesName": "Wifi"
         }
     }
 }
