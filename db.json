@@ -2,7 +2,7 @@
     "stanfeld": {
         "bifrost": {
             "BatteryStatusName": "Charging",
-            "NetworkTechnologiesName": "Wifi"
+            "NetworkTechnologiesName": "Cellular"
         }
     }
 }
